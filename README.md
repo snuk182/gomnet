@@ -17,8 +17,8 @@ titled LICENSE in the project root folder.
 Using
 -----
 Simply add the following import
-`import "github.com/mendsley/gomnet"`
+`import "github.com/snuk182/gomnet"`
 
 Documentation
 -------------
-See <http://godoc.org/github.com/mendsley/gpmnet>
+See <http://godoc.org/github.com/snuk182/gomnet>
